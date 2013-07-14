@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.lizardon.csv4as3.CSVFormat"/>
+    <classEntry path="com.lizardon.csv4as3.CSVFormatBuilder"/>
+    <classEntry path="com.lizardon.csv4as3.Constants"/>
+    <classEntry path="com.lizardon.csv4as3.Quote"/>
+    <classEntry path="com.lizardon.csv4as3.CSVLexer"/>
+    <classEntry path="com.lizardon.csv4as3.BufferedUTF8Reader"/>
+    <classEntry path="com.lizardon.csv4as3.CSVRecord"/>
+    <classEntry path="com.lizardon.csv4as3.CSVParser"/>
+    <classEntry path="com.lizardon.csv4as3.CSVPrinter"/>
+    <classEntry path="com.lizardon.csv4as3.BufferedWriter"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
