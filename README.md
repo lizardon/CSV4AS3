@@ -5,9 +5,8 @@ Advantages of this library include:
 * Support for custom CSV format settings
 * Support for handling escapes and comments
 * Includes a CSV printer
-
-Unfortunately at this time only UTF8 compatible text formats are supported. This is due to the need to implement a custom reader class as a result of limitations of the Actionscript's IDataInput interface to distinguish between byte and character boundaries.
-
+* Includes a CSV printer
+* Supports UTF8 compatible text formats
 
 Getting Started - Parsing a CSV File
 
