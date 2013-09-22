@@ -5,7 +5,6 @@ Advantages of this library include:
 * Support for custom CSV format settings
 * Support for handling escapes and comments
 * Includes a CSV printer
-* Includes a CSV printer
 * Supports UTF8 compatible text formats
 
 Getting Started - Parsing a CSV File
